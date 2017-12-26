@@ -1,7 +1,17 @@
 {
-  "main.css": "static/css/main.c17080f1.css",
-  "main.css.map": "static/css/main.c17080f1.css.map",
-  "main.js": "static/js/main.c513e710.js",
-  "main.js.map": "static/js/main.c513e710.js.map",
-  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg"
+  "main.css": "static/css/main.49f07324.css",
+  "main.css.map": "static/css/main.49f07324.css.map",
+  "main.js": "static/js/main.eaa7574c.js",
+  "main.js.map": "static/js/main.eaa7574c.js.map",
+  "static/media/fontawesome-webfont-.eot": "static/media/fontawesome-webfont-.674f50d2.eot",
+  "static/media/fontawesome-webfont-v=4.7.0.eot": "static/media/fontawesome-webfont-v=4.7.0.674f50d2.eot",
+  "static/media/fontawesome-webfont-v=4.7.0.svg": "static/media/fontawesome-webfont-v=4.7.0.acf3dcb7.svg",
+  "static/media/fontawesome-webfont-v=4.7.0.ttf": "static/media/fontawesome-webfont-v=4.7.0.b06871f2.ttf",
+  "static/media/fontawesome-webfont-v=4.7.0.woff": "static/media/fontawesome-webfont-v=4.7.0.fee66e71.woff",
+  "static/media/fontawesome-webfont-v=4.7.0.woff2": "static/media/fontawesome-webfont-v=4.7.0.af7ae505.woff2",
+  "static/media/glyphicons-halflings-regular.eot": "static/media/glyphicons-halflings-regular.f4769f9b.eot",
+  "static/media/glyphicons-halflings-regular.svg": "static/media/glyphicons-halflings-regular.89889688.svg",
+  "static/media/glyphicons-halflings-regular.ttf": "static/media/glyphicons-halflings-regular.e18bbf61.ttf",
+  "static/media/glyphicons-halflings-regular.woff": "static/media/glyphicons-halflings-regular.fa277232.woff",
+  "static/media/glyphicons-halflings-regular.woff2": "static/media/glyphicons-halflings-regular.448c34a5.woff2"
 }
